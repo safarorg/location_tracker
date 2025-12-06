@@ -1,0 +1,21 @@
+## Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+## Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+## .NET MAUI
+*.app
+*.ipa
+*.dSYM.zip
+
+## macOS
+.DS_Store
+._*
+
